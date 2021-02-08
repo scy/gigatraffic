@@ -1,3 +1,7 @@
+# Project discontinued
+
+Please see <https://codeberg.org/scy/vodafone-quickcheck-scrape> for its successor (written in Python).
+
 # Vodafone (DE) Gigacube Traffic Stats
 
 Vodafone Germany has a product called "Gigacube" that provides LTE internet access. Currently, it's limited to 50 GB per month.
